@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.10.17)  20 OCT 2017 13:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.10.17)  20 OCT 2017 13:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -649,8 +649,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.76 d
-      d
+l.76 T
+      EST
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -667,16 +667,12 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `Algo.out' has not changed.
 (rerunfilecheck)             Checksum: 5C3197E1F1F46CC6558FC358933938DE;107.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
  6152 strings out of 492990
  87629 string characters out of 6138687
- 182030 words of memory out of 5000000
+ 182073 words of memory out of 5000000
  9650 multiletter control sequences out of 15000+600000
  7895 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -689,7 +685,7 @@ m/dpi600/cmbx10.pk> </home/lukas/.texlive/texmf-var/fonts/pk/ljfour/public/cm/c
 mbx12.600pk> </home/lukas/.texlive/texmf-var/fonts/pk/ljfour/public/cm/cmbx12.7
 20pk> </usr/share/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmr12.pk> </usr/s
 hare/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmr17.pk>
-Output written on Algo.pdf (2 pages, 51513 bytes).
+Output written on Algo.pdf (2 pages, 51516 bytes).
 PDF statistics:
  240 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
