@@ -1,7 +1,7 @@
-PWD /home/lukas/Dokumente/Promotion/Algo
+PWD /home/lukas/Dokumente/Promotion/Algorithmus und Werte
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT Algo.tex
+INPUT /home/lukas/Dokumente/Promotion/Algorithmus und Werte/Algo.tex
 OUTPUT Algo.log
 INPUT /usr/share/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/report.cls
