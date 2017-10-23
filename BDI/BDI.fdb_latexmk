@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex BDI"] 1508767263 "BDI.aux" "BDI.bbl" "BDI" 1508767263
+["bibtex BDI"] 1508771233 "BDI.aux" "BDI.bbl" "BDI" 1508771234
   "../literatur.bib" 1508758934 206527 ce3a539960c965fb59e554df89b1d8a1 ""
   "/usr/share/texmf-dist/bibtex/bst/dinat/dinat.bst" 1501615450 44478 8171722d387d8657f0397923511dcd08 ""
-  "BDI.aux" 1508767263 1993 d41fa4b9acae1c660bf29d0522a9d3bd ""
+  "BDI.aux" 1508771233 2927 373bfb1767db09fce190ced207eab3f9 ""
   (generated)
-  "BDI.bbl"
   "BDI.blg"
-["pdflatex"] 1508767263 "/home/lukas/Dokumente/Promotion/Algorithmus und Werte/BDI/BDI.tex" "BDI.pdf" "BDI" 1508767263
+  "BDI.bbl"
+["pdflatex"] 1508771233 "/home/lukas/Dokumente/Promotion/Algorithmus und Werte/BDI/BDI.tex" "BDI.pdf" "BDI" 1508771234
   "/home/lukas/.texlive/texmf-var/fonts/pk/ljfour/public/cm/cmbx12.1244pk" 1508259809 33512 bb64b2b3c291627f9a39d36f7beb2d6d ""
   "/home/lukas/.texlive/texmf-var/fonts/pk/ljfour/public/cm/cmbx12.600pk" 1508259806 14156 9f0fb1e30733cad6af2ac0998ad6a8bd ""
   "/home/lukas/.texlive/texmf-var/fonts/pk/ljfour/public/cm/cmbx12.720pk" 1508259807 17912 b24b1831b949bb41d9610df8f3957d42 ""
   "/home/lukas/.texlive/texmf-var/fonts/pk/ljfour/public/cm/cmcsc10.600pk" 1508259808 11412 9777ddf5f365c76cb149ad998a185654 ""
-  "/home/lukas/Dokumente/Promotion/Algorithmus und Werte/BDI/BDI.tex" 1508767263 1755 d4c1b12130f29f5c64a3d56745f8d048 ""
+  "/home/lukas/Dokumente/Promotion/Algorithmus und Werte/BDI/BDI.tex" 1508771233 2268 0d74597e290a27345514c78ab05d77f9 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1501615455 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmbx10.pk" 1501615450 11496 ba2f638a41e1f9ffcd2b35d81b165537 ""
   "/usr/share/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmr10.pk" 1501615450 10892 c562fda04f99936b3380df8b485bf110 ""
@@ -60,13 +60,13 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1501615481 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1508247135 21233 86a8356fda6de65361ca80c11aac99e1 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1508247126 7735973 4d90f891f26761bcd1a06cb741e70766 ""
-  "BDI.aux" 1508767263 1993 d41fa4b9acae1c660bf29d0522a9d3bd ""
-  "BDI.bbl" 1508767263 1826 21c0b10122b0c9df25dd90f5d22b06c1 "bibtex BDI"
-  "BDI.out" 1508767263 357 7bebc63c9983f8fae11577931a98617a ""
+  "BDI.aux" 1508771233 2927 373bfb1767db09fce190ced207eab3f9 ""
+  "BDI.bbl" 1508771233 5822 616647724808386912ec62595d0743d6 "bibtex BDI"
+  "BDI.out" 1508771233 357 7bebc63c9983f8fae11577931a98617a ""
   "BDI.png" 1508504344 62653 32fb7d4bad4a422aa3c2a1bc20c21763 ""
-  "BDI.tex" 1508767263 1755 d4c1b12130f29f5c64a3d56745f8d048 ""
+  "BDI.tex" 1508771233 2268 0d74597e290a27345514c78ab05d77f9 ""
   (generated)
-  "BDI.out"
-  "BDI.log"
-  "BDI.aux"
   "BDI.pdf"
+  "BDI.aux"
+  "BDI.log"
+  "BDI.out"

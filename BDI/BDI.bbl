@@ -1,4 +1,4 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{11}
 % this bibliography was produced with the style dinat.bst v2.5
 \makeatletter
 \newcommand{\dinatlabel}[1]%
@@ -6,6 +6,15 @@
 \makeatother
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax\def\url#1{\texttt{#1}}\fi
+
+\bibitem[Bono u.\,a.(2007)Bono, Vaccaro, Fehlings, Fisher, Dvorak, Ludwig und
+  Harrop]{Bono2007}
+\dinatlabel{Bono u.\,a. 2007} \textsc{Bono}, Christopher~M.~; \textsc{Vaccaro},
+  Alexander~R.~; \textsc{Fehlings}, Michael~; \textsc{Fisher}, Charles~;
+  \textsc{Dvorak}, Marcel~; \textsc{Ludwig}, Steven~; \textsc{Harrop}, James:
+\newblock Measurement Techniques for Upper Cervical Spine Injuries.
+\newblock In: \emph{Spine}
+\newblock 32 (2007), mar, Nr.~5, S.~593--600
 
 \bibitem[Chang u.\,a.(2009)Chang, Alexander und Mirvis]{Chang2009}
 \dinatlabel{Chang u.\,a. 2009} \textsc{Chang}, Wilbur~; \textsc{Alexander},
@@ -28,6 +37,69 @@
 \newblock 36 (2011), April, S.~709--714. --
 \newblock ISSN 1528-1159
 
+\bibitem[Dziurzynski u.\,a.(2005)Dziurzynski, Anderson, Bean, Choi, Leverson,
+  Marin und Resnick]{Dziurzynski2005}
+\dinatlabel{Dziurzynski u.\,a. 2005} \textsc{Dziurzynski}, Kristine~;
+  \textsc{Anderson}, Paul~A.~; \textsc{Bean}, Darren~B.~; \textsc{Choi},
+  James~; \textsc{Leverson}, Glen~E.~; \textsc{Marin}, Rigoberto~L.~;
+  \textsc{Resnick}, Daniel~K.:
+\newblock A blinded assessment of radiographic criteria for atlanto-occipital
+  dislocation.
+\newblock In: \emph{Spine}
+\newblock 30 (2005), Juni, S.~1427--1432. --
+\newblock ISSN 1528-1159
+
+\bibitem[Gonzalez u.\,a.(2004{\natexlab{a}})Gonzalez, Fiorella, Crawford,
+  Wallace, Feiz-Erfan, Drumm, Papadopoulos und Sonntag]{Gonzalez2004}
+\dinatlabel{Gonzalez u.\,a. 2004{\natexlab{a}}} \textsc{Gonzalez}, L.~F.~;
+  \textsc{Fiorella}, David~; \textsc{Crawford}, Neil~R.~; \textsc{Wallace},
+  Robert~C.~; \textsc{Feiz-Erfan}, Iman~; \textsc{Drumm}, Denise~;
+  \textsc{Papadopoulos}, Stephen~M.~; \textsc{Sonntag}, Volker~K.:
+\newblock Vertical atlantoaxial distraction injuries: radiological criteria and
+  clinical implications.
+\newblock In: \emph{Journal of Neurosurgery: Spine}
+\newblock 1 (2004), oct, Nr.~3, S.~273--280
+
+\bibitem[Gonzalez u.\,a.(2004{\natexlab{b}})Gonzalez, Theodore, Dickman und
+  Sonntag]{Gonzalez2004a}
+\dinatlabel{Gonzalez u.\,a. 2004{\natexlab{b}}} \textsc{Gonzalez}, L.Fernando~;
+  \textsc{Theodore}, Nicholas~; \textsc{Dickman}, Curtis~A.~; \textsc{Sonntag},
+  Volker~K.:
+\newblock Occipitoatlantal and atlantoaxial dislocation.
+\newblock In: \emph{Operative Techniques in Neurosurgery}
+\newblock 7 (2004), mar, Nr.~1, S.~16--21
+
+\bibitem[Harris u.\,a.(1994{\natexlab{a}})Harris, Carson und
+  Wagner]{Harris1994}
+\dinatlabel{Harris u.\,a. 1994{\natexlab{a}}} \textsc{Harris}, J~H.~;
+  \textsc{Carson}, G~C.~; \textsc{Wagner}, L~K.:
+\newblock Radiologic diagnosis of traumatic occipitovertebral dissociation: 1.
+  Normal occipitovertebral relationships on lateral radiographs of supine
+  subjects.
+\newblock In: \emph{American Journal of Roentgenology}
+\newblock 162 (1994), apr, Nr.~4, S.~881--886
+
+\bibitem[Harris u.\,a.(1994{\natexlab{b}})Harris, Carson, Wagner und
+  Kerr]{Harris1994a}
+\dinatlabel{Harris u.\,a. 1994{\natexlab{b}}} \textsc{Harris}, J~H.~;
+  \textsc{Carson}, G~C.~; \textsc{Wagner}, L~K.~; \textsc{Kerr}, N:
+\newblock Radiologic diagnosis of traumatic occipitovertebral dissociation: 2.
+  Comparison of three methods of detecting occipitovertebral relationships on
+  lateral radiographs of supine subjects.
+\newblock In: \emph{American Journal of Roentgenology}
+\newblock 162 (1994), apr, Nr.~4, S.~887--892
+
+\bibitem[Radcliff u.\,a.(2012)Radcliff, Kepler, Reitman, Harrop und
+  Vaccaro]{Radcliff2012}
+\dinatlabel{Radcliff u.\,a. 2012} \textsc{Radcliff}, Kristen~; \textsc{Kepler},
+  Christopher~; \textsc{Reitman}, Charles~; \textsc{Harrop}, James~;
+  \textsc{Vaccaro}, Alexander:
+\newblock CT and MRI-based diagnosis of craniocervical dislocations: the role
+  of the occipitoatlantal ligament.
+\newblock In: \emph{Clinical orthopaedics and related research}
+\newblock 470 (2012), Juni, S.~1602--1613. --
+\newblock ISSN 1528-1132
+
 \bibitem[Radcliff u.\,a.(2010)Radcliff, Ben-Galim, Dreiangel, Martin, Reitman,
   Lin und Hipp]{Radcliff2010}
 \dinatlabel{Radcliff u.\,a. 2010} \textsc{Radcliff}, Kristen~E.~;
@@ -38,5 +110,12 @@
   anatomy: what is normal?
 \newblock In: \emph{The Spine Journal}
 \newblock 10 (2010), mar, Nr.~3, S.~219--229
+
+\bibitem[Rojas u.\,a.(2007)Rojas, Bertozzi, Martinez und Whitlow]{Rojas2007}
+\dinatlabel{Rojas u.\,a. 2007} \textsc{Rojas}, C.A.~; \textsc{Bertozzi}, J.C.~;
+  \textsc{Martinez}, C.R.~; \textsc{Whitlow}, J.:
+\newblock Reassessment of the Craniocervical Junction: Normal Values on {CT}.
+\newblock In: \emph{American Journal of Neuroradiology}
+\newblock 28 (2007), oct, Nr.~9, S.~1819--1823
 
 \end{thebibliography}

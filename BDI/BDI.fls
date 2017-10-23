@@ -108,6 +108,6 @@ INPUT /usr/share/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmti10.pk
 INPUT /home/lukas/.texlive/texmf-var/fonts/pk/ljfour/public/cm/cmcsc10.600pk
 INPUT /home/lukas/.texlive/texmf-var/fonts/pk/ljfour/public/cm/cmbx12.1244pk
 INPUT /usr/share/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmbx10.pk
+INPUT /usr/share/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmr10.pk
 INPUT /home/lukas/.texlive/texmf-var/fonts/pk/ljfour/public/cm/cmbx12.600pk
 INPUT /home/lukas/.texlive/texmf-var/fonts/pk/ljfour/public/cm/cmbx12.720pk
-INPUT /usr/share/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmr10.pk
