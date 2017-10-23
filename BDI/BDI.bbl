@@ -1,4 +1,4 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{3}
 % this bibliography was produced with the style dinat.bst v2.5
 \makeatletter
 \newcommand{\dinatlabel}[1]%
@@ -6,5 +6,37 @@
 \makeatother
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax\def\url#1{\texttt{#1}}\fi
+
+\bibitem[Chang u.\,a.(2009)Chang, Alexander und Mirvis]{Chang2009}
+\dinatlabel{Chang u.\,a. 2009} \textsc{Chang}, Wilbur~; \textsc{Alexander},
+  Melvin~T.~; \textsc{Mirvis}, Stuart~E.:
+\newblock Diagnostic determinants of craniocervical distraction injury in
+  adults.
+\newblock In: \emph{AJR. American journal of roentgenology}
+\newblock 192 (2009), Januar, S.~52--58. --
+\newblock ISSN 1546-3141
+
+\bibitem[Chaput u.\,a.(2011)Chaput, Walgama, Torres, Dominguez, Hanson, Song
+  und Rahm]{Chaput2011}
+\dinatlabel{Chaput u.\,a. 2011} \textsc{Chaput}, Christopher~D.~;
+  \textsc{Walgama}, Jonathan~; \textsc{Torres}, Erick~; \textsc{Dominguez},
+  David~; \textsc{Hanson}, Jeramie~; \textsc{Song}, Juhee~; \textsc{Rahm},
+  Mark:
+\newblock Defining and detecting missed ligamentous injuries of the
+  occipitocervical complex.
+\newblock In: \emph{Spine}
+\newblock 36 (2011), April, S.~709--714. --
+\newblock ISSN 1528-1159
+
+\bibitem[Radcliff u.\,a.(2010)Radcliff, Ben-Galim, Dreiangel, Martin, Reitman,
+  Lin und Hipp]{Radcliff2010}
+\dinatlabel{Radcliff u.\,a. 2010} \textsc{Radcliff}, Kristen~E.~;
+  \textsc{Ben-Galim}, Peleg~; \textsc{Dreiangel}, Niv~; \textsc{Martin},
+  Shannon~B.~; \textsc{Reitman}, Charles~A.~; \textsc{Lin}, James~N.~;
+  \textsc{Hipp}, John~A.:
+\newblock Comprehensive computed tomography assessment of the upper cervical
+  anatomy: what is normal?
+\newblock In: \emph{The Spine Journal}
+\newblock 10 (2010), mar, Nr.~3, S.~219--229
 
 \end{thebibliography}
