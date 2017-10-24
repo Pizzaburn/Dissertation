@@ -1,4 +1,4 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{16}
 % this bibliography was produced with the style dinat.bst v2.5
 \makeatletter
 \newcommand{\dinatlabel}[1]%
@@ -37,6 +37,17 @@
 \newblock 36 (2011), April, S.~709--714. --
 \newblock ISSN 1528-1159
 
+\bibitem[Deliganis u.\,a.(2000)Deliganis, Baxter, Hanson, Fisher, Cohen, Wilson
+  und Mann]{Deliganis2000}
+\dinatlabel{Deliganis u.\,a. 2000} \textsc{Deliganis}, A~V.~; \textsc{Baxter},
+  A~B.~; \textsc{Hanson}, J~A.~; \textsc{Fisher}, D~J.~; \textsc{Cohen}, W~A.~;
+  \textsc{Wilson}, A~J.~; \textsc{Mann}, F~A.:
+\newblock Radiologic spectrum of craniocervical distraction injuries.
+\newblock In: \emph{Radiographics : a review publication of the Radiological
+  Society of North America, Inc}
+\newblock 20 Spec No (2000), Oktober, S.~S237--S250. --
+\newblock ISSN 0271-5333
+
 \bibitem[Dziurzynski u.\,a.(2005)Dziurzynski, Anderson, Bean, Choi, Leverson,
   Marin und Resnick]{Dziurzynski2005}
 \dinatlabel{Dziurzynski u.\,a. 2005} \textsc{Dziurzynski}, Kristine~;
@@ -48,6 +59,15 @@
 \newblock In: \emph{Spine}
 \newblock 30 (2005), Juni, S.~1427--1432. --
 \newblock ISSN 1528-1159
+
+\bibitem[Fisher u.\,a.(2001)Fisher, Sun und Dvorak]{Fisher2001}
+\dinatlabel{Fisher u.\,a. 2001} \textsc{Fisher}, C~G.~; \textsc{Sun}, J~C.~;
+  \textsc{Dvorak}, M:
+\newblock Recognition and management of atlanto-occipital dislocation:
+  improving survival from an often fatal condition.
+\newblock In: \emph{Canadian journal of surgery. Journal canadien de chirurgie}
+\newblock 44 (2001), Dezember, S.~412--420. --
+\newblock ISSN 0008-428X
 
 \bibitem[Gonzalez u.\,a.(2004{\natexlab{a}})Gonzalez, Fiorella, Crawford,
   Wallace, Feiz-Erfan, Drumm, Papadopoulos und Sonntag]{Gonzalez2004}
@@ -89,6 +109,25 @@
 \newblock In: \emph{American Journal of Roentgenology}
 \newblock 162 (1994), apr, Nr.~4, S.~887--892
 
+\bibitem[Lee u.\,a.(1987)Lee, Woodring, Goldstein, Daniel, Young und
+  Tibbs]{Lee1987}
+\dinatlabel{Lee u.\,a. 1987} \textsc{Lee}, C~; \textsc{Woodring}, J~H.~;
+  \textsc{Goldstein}, S~J.~; \textsc{Daniel}, T~L.~; \textsc{Young}, A~B.~;
+  \textsc{Tibbs}, P~A.:
+\newblock Evaluation of traumatic atlantooccipital dislocations.
+\newblock In: \emph{AJNR. American journal of neuroradiology}
+\newblock 8 (1987), S.~19--26. --
+\newblock ISSN 0195-6108
+
+\bibitem[Powers u.\,a.(1979)Powers, Miller, Kramer, Martinez und
+  Gehweiler]{Powers1979}
+\dinatlabel{Powers u.\,a. 1979} \textsc{Powers}, B~; \textsc{Miller}, M~D.~;
+  \textsc{Kramer}, R~S.~; \textsc{Martinez}, S~; \textsc{Gehweiler}, J~A.:
+\newblock Traumatic anterior atlanto-occipital dislocation.
+\newblock In: \emph{Neurosurgery}
+\newblock 4 (1979), Januar, S.~12--17. --
+\newblock ISSN 0148-396X
+
 \bibitem[Radcliff u.\,a.(2012)Radcliff, Kepler, Reitman, Harrop und
   Vaccaro]{Radcliff2012}
 \dinatlabel{Radcliff u.\,a. 2012} \textsc{Radcliff}, Kristen~; \textsc{Kepler},
@@ -117,5 +156,14 @@
 \newblock Reassessment of the Craniocervical Junction: Normal Values on {CT}.
 \newblock In: \emph{American Journal of Neuroradiology}
 \newblock 28 (2007), oct, Nr.~9, S.~1819--1823
+
+\bibitem[WHOLEY u.\,a.(1958)WHOLEY, BRUWER und BAKER]{WHOLEY1958}
+\dinatlabel{WHOLEY u.\,a. 1958} \textsc{WHOLEY}, M~H.~; \textsc{BRUWER}, A~J.~;
+  \textsc{BAKER}, H~L.:
+\newblock The lateral roentgenogram of the neck; with comments on the
+  atlanto-odontoid-basion relationship.
+\newblock In: \emph{Radiology}
+\newblock 71 (1958), September, S.~350--356. --
+\newblock ISSN 0033-8419
 
 \end{thebibliography}
