@@ -98,6 +98,12 @@ INPUT BDI.png
 INPUT ./BDI.png
 INPUT ./BDI.png
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT LMI.png
+INPUT ./LMI.png
+INPUT ./LMI.png
+INPUT LMD.png
+INPUT ./LMD.png
+INPUT ./LMD.png
 INPUT BDI.bbl
 INPUT BDI.bbl
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm

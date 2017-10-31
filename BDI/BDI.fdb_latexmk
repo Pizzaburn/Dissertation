@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex BDI"] 1508850157 "BDI.aux" "BDI.bbl" "BDI" 1508850206
+["bibtex BDI"] 1509458029 "BDI.aux" "BDI.bbl" "BDI" 1509458994
   "../literatur.bib" 1508758934 206527 ce3a539960c965fb59e554df89b1d8a1 ""
   "/usr/share/texmf-dist/bibtex/bst/dinat/dinat.bst" 1501615450 44478 8171722d387d8657f0397923511dcd08 ""
-  "BDI.aux" 1508850158 4386 200d40fded77087b26043dedc55535f2 ""
+  "BDI.aux" 1509458029 6544 c4caa9029a99666b5b22c2a66de07776 ""
   (generated)
-  "BDI.bbl"
   "BDI.blg"
-["pdflatex"] 1508850158 "/home/lukas/Dokumente/Promotion/Algorithmus und Werte/BDI/BDI.tex" "BDI.pdf" "BDI" 1508850206
-  "/home/lukas/Dokumente/Promotion/Algorithmus und Werte/BDI/BDI.tex" 1508850157 3602 de8e036e66812076d1292a2c47a86e96 ""
+  "BDI.bbl"
+["pdflatex"] 1509458994 "/home/lukas/Dokumente/Promotion/Algorithmus und Werte/BDI/BDI.tex" "BDI.pdf" "BDI" 1509458994
+  "/home/lukas/Dokumente/Promotion/Algorithmus und Werte/BDI/BDI.tex" 1509458994 6871 317ad00bd680397cf95e6a2abd1222a4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1501615455 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1501615461 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1501615461 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -58,14 +58,16 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1501615481 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1508771311 2243969 551c28c0d65c3448fa7a238269fde3cf ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1508247126 7735973 4d90f891f26761bcd1a06cb741e70766 ""
-  "BDI.aux" 1508850158 4386 200d40fded77087b26043dedc55535f2 ""
-  "BDI.bbl" 1508850157 8072 40af3f149ef749a99ee427d6350a7015 "bibtex BDI"
-  "BDI.out" 1508850158 698 b035d31288684266f678e92e72759f6f ""
+  "BDI.aux" 1509458029 6544 c4caa9029a99666b5b22c2a66de07776 ""
+  "BDI.bbl" 1509458029 12456 c3d6b31558ea19c62661fcbe3efd9eec "bibtex BDI"
+  "BDI.out" 1509458029 1158 8b887b56fc271515f122338366abd851 ""
   "BDI.png" 1508504344 62653 32fb7d4bad4a422aa3c2a1bc20c21763 ""
-  "BDI.tex" 1508850157 3602 de8e036e66812076d1292a2c47a86e96 ""
+  "BDI.tex" 1509458994 6871 317ad00bd680397cf95e6a2abd1222a4 ""
   "Instability.png" 1508848783 34598 ae9a97855f46d714d7370ff96d7b5515 ""
+  "LMD.png" 1509445884 37807 805b132f24f6bc6b943707f780bb011d ""
+  "LMI.png" 1509456561 16314 80e3d78324adbb8e48c52ff59a635dcb ""
   (generated)
+  "BDI.out"
   "BDI.aux"
   "BDI.pdf"
   "BDI.log"
-  "BDI.out"

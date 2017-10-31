@@ -1,4 +1,4 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{26}
 % this bibliography was produced with the style dinat.bst v2.5
 \makeatletter
 \newcommand{\dinatlabel}[1]%
@@ -47,6 +47,26 @@
   Society of North America, Inc}
 \newblock 20 Spec No (2000), Oktober, S.~S237--S250. --
 \newblock ISSN 0271-5333
+
+\bibitem[Dickman u.\,a.(1996)Dickman, Greene und Sonntag]{Dickman1996}
+\dinatlabel{Dickman u.\,a. 1996} \textsc{Dickman}, C~A.~; \textsc{Greene},
+  K~A.~; \textsc{Sonntag}, V~K.:
+\newblock Injuries involving the transverse atlantal ligament: classification
+  and treatment guidelines based upon experience with 39 injuries.
+\newblock In: \emph{Neurosurgery}
+\newblock 38 (1996), Januar, S.~44--50. --
+\newblock ISSN 0148-396X
+
+\bibitem[Dvorak u.\,a.(1988)Dvorak, Schneider, Saldinger und Rahn]{Dvorak1988}
+\dinatlabel{Dvorak u.\,a. 1988} \textsc{Dvorak}, J.~; \textsc{Schneider}, E.~;
+  \textsc{Saldinger}, P.~; \textsc{Rahn}, B.:
+\newblock {{B}iomechanics of the craniocervical region: the alar and transverse
+  ligaments}.
+\newblock In: \emph{J. Orthop. Res.}
+\newblock 6 (1988), Nr.~3, S.~452--461. --
+\newblock
+  [DOI:\href{https://dx.doi.org/10.1002/jor.1100060317}{10.1002/jor.1100060317}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/3357093}{3357093}]
 
 \bibitem[Dziurzynski u.\,a.(2005)Dziurzynski, Anderson, Bean, Choi, Leverson,
   Marin und Resnick]{Dziurzynski2005}
@@ -109,6 +129,29 @@
 \newblock In: \emph{American Journal of Roentgenology}
 \newblock 162 (1994), apr, Nr.~4, S.~887--892
 
+\bibitem[Heller u.\,a.(1993)Heller, Viroslav und Hudson]{Heller1993}
+\dinatlabel{Heller u.\,a. 1993} \textsc{Heller}, J~G.~; \textsc{Viroslav}, S~;
+  \textsc{Hudson}, T:
+\newblock Jefferson fractures: the role of magnification artifact in assessing
+  transverse ligament integrity.
+\newblock In: \emph{Journal of spinal disorders}
+\newblock 6 (1993), Oktober, S.~392--396. --
+\newblock ISSN 0895-0385
+
+\bibitem[Jefferson(1927)]{Jefferson1927}
+\dinatlabel{Jefferson 1927} \textsc{Jefferson}, G:
+\newblock Remarks on Fractures of the First Cervical Vertebra.
+\newblock In: \emph{British medical journal}
+\newblock 2 (1927), Juli, S.~153--157. --
+\newblock ISSN 0007-1447
+
+\bibitem[Jefferson(1919)]{Jefferson1919}
+\dinatlabel{Jefferson 1919} \textsc{Jefferson}, Geoffrey:
+\newblock Fracture of the atlas vertebra. Report of four cases, and a review of
+  those previously recorded.
+\newblock In: \emph{British Journal of Surgery}
+\newblock 7 (1919), Nr.~27, S.~407--422
+
 \bibitem[Lee u.\,a.(1987)Lee, Woodring, Goldstein, Daniel, Young und
   Tibbs]{Lee1987}
 \dinatlabel{Lee u.\,a. 1987} \textsc{Lee}, C~; \textsc{Woodring}, J~H.~;
@@ -118,6 +161,28 @@
 \newblock In: \emph{AJNR. American journal of neuroradiology}
 \newblock 8 (1987), S.~19--26. --
 \newblock ISSN 0195-6108
+
+\bibitem[Lopez u.\,a.(2015)Lopez, Scheer, Leibl, Smith, Dlouhy und
+  Dahdaleh]{Lopez2015}
+\dinatlabel{Lopez u.\,a. 2015} \textsc{Lopez}, Alejandro~J.~; \textsc{Scheer},
+  Justin~K.~; \textsc{Leibl}, Kayla~E.~; \textsc{Smith}, Zachary~A.~;
+  \textsc{Dlouhy}, Brian~J.~; \textsc{Dahdaleh}, Nader~S.:
+\newblock Anatomy and biomechanics of the craniovertebral junction.
+\newblock In: \emph{Neurosurgical Focus}
+\newblock 38 (2015), apr, Nr.~4, S.~E2
+
+\bibitem[Perez-Orribo u.\,a.(2016)Perez-Orribo, Kalb, Snyder, Hsu, Malhotra,
+  Lefevre, Elhadi, Newcomb, Theodore und Crawford]{Perez_Orribo_2016}
+\dinatlabel{Perez-Orribo u.\,a. 2016} \textsc{Perez-Orribo}, Luis~;
+  \textsc{Kalb}, Samuel~; \textsc{Snyder}, Laura~A.~; \textsc{Hsu}, Forrest~;
+  \textsc{Malhotra}, Devika~; \textsc{Lefevre}, Richard~D.~; \textsc{Elhadi},
+  Ali~M.~; \textsc{Newcomb}, Anna G. U.~S.~; \textsc{Theodore}, Nicholas~;
+  \textsc{Crawford}, Neil~R.:
+\newblock Comparison of {CT} versus {MRI} measurements of transverse atlantal
+  ligament integrity in craniovertebral junction injuries. Part 2: A new
+  {CT}-based alternative for assessing transverse ligament integrity.
+\newblock In: \emph{Journal of Neurosurgery: Spine}
+\newblock 24 (2016), jun, Nr.~6, S.~903--909
 
 \bibitem[Powers u.\,a.(1979)Powers, Miller, Kramer, Martinez und
   Gehweiler]{Powers1979}
@@ -157,6 +222,22 @@
 \newblock In: \emph{American Journal of Neuroradiology}
 \newblock 28 (2007), oct, Nr.~9, S.~1819--1823
 
+\bibitem[Spence u.\,a.(1970)Spence, Decker und Sell]{Spence1970}
+\dinatlabel{Spence u.\,a. 1970} \textsc{Spence}, K~F.~; \textsc{Decker}, S~;
+  \textsc{Sell}, K~W.:
+\newblock Bursting atlantal fracture associated with rupture of the transverse
+  ligament.
+\newblock In: \emph{The Journal of bone and joint surgery. American volume}
+\newblock 52 (1970), April, S.~543--549. --
+\newblock ISSN 0021-9355
+
+\bibitem[White und DTech(1990)]{White1990}
+\dinatlabel{White und DTech 1990} \textsc{White}, Augustus~A.~; \textsc{DTech},
+  Manohar M. Panjabi~P.:
+\newblock \emph{Clinical Biomechanics of the Spine}.
+\newblock LWW, 1990. --
+\newblock ISBN 0397507208
+
 \bibitem[WHOLEY u.\,a.(1958)WHOLEY, BRUWER und BAKER]{WHOLEY1958}
 \dinatlabel{WHOLEY u.\,a. 1958} \textsc{WHOLEY}, M~H.~; \textsc{BRUWER}, A~J.~;
   \textsc{BAKER}, H~L.:
@@ -165,5 +246,16 @@
 \newblock In: \emph{Radiology}
 \newblock 71 (1958), September, S.~350--356. --
 \newblock ISSN 0033-8419
+
+\bibitem[Woods u.\,a.(2017)Woods, Inceoglu, Akpolat, Cheng, Jabo und
+  Danisa]{Woods2017}
+\dinatlabel{Woods u.\,a. 2017} \textsc{Woods}, Rafeek~O.~; \textsc{Inceoglu},
+  Serkan~; \textsc{Akpolat}, Yusuf~T.~; \textsc{Cheng}, Wayne~K.~;
+  \textsc{Jabo}, Brice~; \textsc{Danisa}, Olumide:
+\newblock C1 Lateral Mass Displacement and Transverse Atlantal Ligament Failure
+  in Jefferson{\textquotesingle}s Fracture: A Biomechanical Study of the
+  {\textquotedblleft}Rule of Spence{\textquotedblright}.
+\newblock In: \emph{Neurosurgery}
+\newblock (2017), apr
 
 \end{thebibliography}

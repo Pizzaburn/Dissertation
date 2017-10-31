@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.10.17)  24 OCT 2017 15:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.10.17)  31 OCT 2017 15:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -627,52 +627,111 @@ Package gensymb Info: Using \Omega for \ohm on input line 17.
 
 Package gensymb Warning: Not defining \micro.
 
-<Instability.png, id=48, 401.5pt x 129.48375pt>
+<Instability.png, id=76, 401.5pt x 129.48375pt>
 File: Instability.png Graphic file (type png)
 <use Instability.png>
 Package pdftex.def Info: Instability.png  used on input line 20. on input line 
 20.
 Package pdftex.def Info: Requested size: 227.62204pt x 73.40936pt on input line
  20.
-<BDI.png, id=62, 513.92pt x 370.38374pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+<BDI.png, id=98, 513.92pt x 370.38374pt>
 File: BDI.png Graphic file (type png)
 <use BDI.png>
-Package pdftex.def Info: BDI.png  used on input line 37. on input line 37.
+Package pdftex.def Info: BDI.png  used on input line 45. on input line 45.
 Package pdftex.def Info: Requested size: 227.62204pt x 164.0488pt on input line
- 37.
+ 45.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Instability.png (PNG cop
-y)> <./BDI.png (PNG copy)>] (./BDI.bbl [2] [3
+y)>]
+<LMI.png, id=151, 172.645pt x 114.4275pt>
+File: LMI.png Graphic file (type png)
+<use LMI.png>
+Package pdftex.def Info: LMI.png  used on input line 82. on input line 82.
+Package pdftex.def Info: Requested size: 227.62204pt x 150.86841pt on input lin
+e 82.
 
-])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <./BDI.png (PNG copy)>]
+<LMD.png, id=168, 473.77pt x 179.67125pt>
+File: LMD.png Graphic file (type png)
+<use LMD.png>
+Package pdftex.def Info: LMD.png  used on input line 103. on input line 103.
+Package pdftex.def Info: Requested size: 227.62204pt x 86.32071pt on input line
+ 103.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package natbib Warning: Citation `Radcliff2013' on page 3 undefined on input li
+ne 117.
+
+[3 <./LMI.png (PNG copy)>]
+
+Package natbib Warning: Citation `Radcliff2013' on page 4 undefined on input li
+ne 127.
+
+(./BDI.bbl [4 <./LMD.png (PNG copy)>] [5
+
+] [6]
+./BDI.bbl:256: Undefined control sequence.
+l.256   in Jefferson{\textquotesingle
+                                     }s Fracture: A Biomechanical Study of the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
+[7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
  (./BDI.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
-Package rerunfilecheck Info: File `BDI.out' has not changed.
-(rerunfilecheck)             Checksum: B035D31288684266F678E92E72759F6F;698.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
+
+
+Package rerunfilecheck Warning: File `BDI.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `BDI.out':
+(rerunfilecheck)             Before: 8B887B56FC271515F122338366ABD851;1158
+(rerunfilecheck)             After:  D98FFE7C963D1ADBE91C72E44F5FD38A;1292.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 6224 strings out of 492990
- 88916 string characters out of 6138687
- 185098 words of memory out of 5000000
- 9702 multiletter control sequences out of 15000+600000
+ 6298 strings out of 492990
+ 90091 string characters out of 6138687
+ 186720 words of memory out of 5000000
+ 9748 multiletter control sequences out of 15000+600000
  6411 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,5n,31p,563b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,5n,31p,565b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti10.pfb>
-Output written on BDI.pdf (4 pages, 193819 bytes).
+Output written on BDI.pdf (7 pages, 260298 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 249 PDF objects out of 1000 (max. 8388607)
+ 228 compressed objects within 3 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 165 words of extra memory for PDF output out of 10000 (max. 10000000)
 
