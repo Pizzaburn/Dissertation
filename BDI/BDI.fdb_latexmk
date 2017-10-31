@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex BDI"] 1508850157 "BDI.aux" "BDI.bbl" "BDI" 1508850158
+["bibtex BDI"] 1508850157 "BDI.aux" "BDI.bbl" "BDI" 1508850206
   "../literatur.bib" 1508758934 206527 ce3a539960c965fb59e554df89b1d8a1 ""
   "/usr/share/texmf-dist/bibtex/bst/dinat/dinat.bst" 1501615450 44478 8171722d387d8657f0397923511dcd08 ""
   "BDI.aux" 1508850158 4386 200d40fded77087b26043dedc55535f2 ""
   (generated)
   "BDI.bbl"
   "BDI.blg"
-["pdflatex"] 1508850158 "/home/lukas/Dokumente/Promotion/Algorithmus und Werte/BDI/BDI.tex" "BDI.pdf" "BDI" 1508850158
+["pdflatex"] 1508850158 "/home/lukas/Dokumente/Promotion/Algorithmus und Werte/BDI/BDI.tex" "BDI.pdf" "BDI" 1508850206
   "/home/lukas/Dokumente/Promotion/Algorithmus und Werte/BDI/BDI.tex" 1508850157 3602 de8e036e66812076d1292a2c47a86e96 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1501615455 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1501615461 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -65,7 +65,7 @@
   "BDI.tex" 1508850157 3602 de8e036e66812076d1292a2c47a86e96 ""
   "Instability.png" 1508848783 34598 ae9a97855f46d714d7370ff96d7b5515 ""
   (generated)
-  "BDI.out"
   "BDI.aux"
   "BDI.pdf"
   "BDI.log"
+  "BDI.out"
